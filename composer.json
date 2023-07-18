@@ -1,0 +1,17 @@
+{
+    "name": "vlad/test",
+    "authors": [
+        {
+            "name": "Vlad-Shestopalov",
+            "email": "batchatillon.t@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
